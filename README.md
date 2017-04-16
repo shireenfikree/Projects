@@ -44,6 +44,7 @@ Otherwise, program will compute final score (without extra credit).
 ---
 
 Structure:
+
 -Define grade boundaries (some defaults are offered)
 
 -Input number of assignments (can be tests, homeworks, projects etc)
