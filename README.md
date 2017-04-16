@@ -35,7 +35,7 @@ Installation:
 
 -Program will appear as plain text in command window with guided text inputs
 
---
+---
 
 If not all assignments have been completed/entered, program will compute current standing in class.
 
