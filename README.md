@@ -1,2 +1,0 @@
-# gradecalc
-MATLAB grade calculator
